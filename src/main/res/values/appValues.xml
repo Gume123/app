@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Cores-->
+    <color name="fundo">#fff</color>
+    <color name="destaque">#006341</color>
+    <color name="btn">#00A859</color>
+    <color name="textSecundario">#4D4D4D</color>
+    <color name="bordas">#B3B3B3</color>
+</resources>
